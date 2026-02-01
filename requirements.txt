@@ -1,0 +1,2 @@
+# Requires: hypothetical-duration
+# (Not available on PyPI)
